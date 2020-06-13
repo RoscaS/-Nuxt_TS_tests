@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-typescript",
+  "version": "1.0.0",
+  "description": "My fantastic Nuxt.js project",
+  "author": "roscas",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "nuxt": "^2.0.0",
+    "nuxt-property-decorator": "^2.7.2",
+    "prettier": "^2.0.5"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.6.0"
+  }
+}
